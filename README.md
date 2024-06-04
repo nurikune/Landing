@@ -1,4 +1,4 @@
-# Landing-
+# Landing
 Простой Django Landing Page для организаций. Простой в развертывании.
 
 
@@ -50,7 +50,7 @@
   $ git clone https://github.com/Williano/Landing-Page.git
 
   # Переместите в папку проекта
-  $ cd Landing-Page
+  $ cd Landing
 
   # Установить из Pip-файла
   $ pipenv install
