@@ -6,9 +6,7 @@
 ## Общая информация
 Простой Django Landing Page для организаций, созданный с помощью Python и Django.
 
-## Скриншоты
 
-![Screenshot_2020-06-14 Coming Soon ](https://user-images.githubusercontent.com/19711677/84585879-cbfbb280-add9-11ea-8263-f2da37cbb638.png)
 
 
 
